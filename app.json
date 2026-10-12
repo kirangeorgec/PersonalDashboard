@@ -20,6 +20,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "scheme": "personaldashboard",
+    "plugins": [
+      "expo-router",
+      "expo-status-bar"
+    ]
   }
 }
